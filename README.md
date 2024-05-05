@@ -24,7 +24,11 @@ Step 8: By clicking Explicit Intent button open second page using Explicit Inten
 Step 7: Save and run the application.
 ## PROGRAM
 ```
-Developed by: Gautham Krishna
+/*
+Program to create and design an android application for Sending  SMS using Intent.
+Developed by: GAUTHAM KRISHNA S
+RegisterNumber:  212223240036
+*/
 ```
 #### MainActivity.java
 ```java
